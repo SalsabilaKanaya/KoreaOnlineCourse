@@ -1,0 +1,16 @@
+.jumbotron{
+    background-color: antiquewhite;
+}
+
+.navbar{
+    margin-bottom: 20px;
+}
+
+.profile-container{
+    margin-top: 100px;
+}
+
+.profile-img{
+    width: 150px;
+    height: auto;
+}

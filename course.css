@@ -1,0 +1,31 @@
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #919f89;
+
+}
+
+/*course 1*/
+.bawah{
+    color: #198754;
+}
+
+/*course 2*/
+.course2{
+    background-color: #e2b8ac;
+}
+.bawah2{
+    color: #ffff;
+}
+
+.bawah2 p{
+    color: black;
+}
+
+/*course 3*/
+.bawah3{
+    color: #dc3545;
+}
+
+.col{
+    background-color: #919f89;
+}
